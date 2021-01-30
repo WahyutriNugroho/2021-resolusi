@@ -3,5 +3,5 @@
 -belajar github
 -Membuat Portofolio Pribadi
 -Menghosting Web/App 
--Mengikuti bootcamp
 -liburan
+-coba
